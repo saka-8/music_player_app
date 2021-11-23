@@ -1,4 +1,4 @@
-const Songs = [
+export const info = [
   {
     id: '1',
     title: 'abcd efgh',
