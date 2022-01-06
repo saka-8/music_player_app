@@ -12,8 +12,8 @@
   "dependencies": {
     "@react-native-community/slider": "^4.1.12",
     "react": "17.0.2",
-    "react-horizontal-slider": "^1.1.1",
     "react-native": "0.65.1",
+    "react-native-track-player": "^2.2.0-beta12",
     "react-native-vector-icons": "^9.0.0"
   },
   "devDependencies": {
